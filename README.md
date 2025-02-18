@@ -149,7 +149,6 @@ If you encounter a new malicious OAuth app that is not listed here, please repor
 - [Microsoft 365 Security and Compliance](https://www.microsoft.com/en-us/microsoft-365/security)
 - [OAuth 2.0 Framework](https://tools.ietf.org/html/rfc6749)
 - [Microsoft Identity Platform](https://learn.microsoft.com/en-us/azure/active-directory/develop/)
-- [Common OAuth App Scams](https://www.secureyourapps.com/oauth-scams)
 
 ## Disclaimer
 
