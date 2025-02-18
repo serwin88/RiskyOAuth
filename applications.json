@@ -63,3 +63,21 @@
     "https://darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis"
   ]
 }
+{
+  "app_name": "PERFECTDATA SOFTWARE",
+  "app_id": "ff8d92dc-3d82-41d6-bcbd-b9174d163620",
+  "publisher": "PERFECTDATA SOFTWARE LLC",
+  "permissions": [
+    "Mail.ReadWrite",
+    "Mail.Send
+    User.Read
+    AccessUser.All"
+  ],
+  "discovery_method": "Incident Response",
+  "impact": "Full Mailbox Cloning",
+  "date_discovered": "2025-01-10",
+  "reported_by": "Steven Erwin",
+  "references": [
+    "https://darktrace.com/blog/how-abuse-of-perfectdata-software-may-create-a-perfect-storm-an-emerging-trend-in-account-takeovers"
+  ]
+}
