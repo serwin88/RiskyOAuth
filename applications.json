@@ -12,6 +12,8 @@
   "reported_by": "Steven Erwin",
   "references": [
   ]
+}
+{
   "app_name": "eM Client",
   "app_id": "e9a7fea1-1cc0-4cd9-a31b-9137ca5deedd",
   "publisher": "eM Client s.r.o",
@@ -26,5 +28,38 @@
   "reported_by": "Steven Erwin",
   "references": [
     "https://cybercorner.tech/malicious-usage-of-em-client-in-business-email-compromise/"
+  ]
+}
+{
+  "app_name": "Fastmail",
+  "app_id": "77468577-4f6e-40e7-b745-11d3d0c28095",
+  "publisher": "Fastmail",
+  "permissions": [
+    "User.Read",
+    "Mail.ReadWrite",
+    "Files.ReadWrite"
+  ],
+  "discovery_method": "Incident Response",
+  "impact": "Data exfiltration, unauthorized email sending",
+  "date_discovered": "2025-01-10",
+  "reported_by": "Steven Erwin",
+  "references": [
+    "https://www.fastmail.help/hc/en-us/articles/360060590593-Migrate-to-Fastmail-from-another-provider"
+  ]
+}
+{
+  "app_name": "Newsletter Software Supermailer",
+  "app_id": "a245e8c0-b53c-4b67-9b45-751d1dff8e6b",
+  "publisher": "Newsletter Software",
+  "permissions": [
+    "Mail.ReadWrite",
+    "Mail.Send"
+  ],
+  "discovery_method": "Incident Response",
+  "impact": "Mass Mail Sending",
+  "date_discovered": "2025-01-10",
+  "reported_by": "Steven Erwin",
+  "references": [
+    "https://darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis"
   ]
 }
