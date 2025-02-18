@@ -13,3 +13,20 @@
   "references": [
   ]
 }
+{
+  "app_name": "eM Client",
+  "app_id": "e9a7fea1-1cc0-4cd9-a31b-9137ca5deedd",
+  "publisher": "eM Client s.r.o",
+  "permissions": [
+    "View.Profile",
+    "Mail.ReadWrite",
+    "EWS.AccessAsUser.All", 
+  ],
+  "discovery_method": "Automated detection, Incident Response",
+  "impact": "Full Mailbox Control and Exfil",
+  "date_discovered": "2025-02-01",
+  "reported_by": "Steven Erwin",
+  "references": [
+    https://cybercorner.tech/malicious-usage-of-em-client-in-business-email-compromise/
+  ]
+}
