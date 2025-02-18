@@ -1,0 +1,15 @@
+{
+  "app_name": "CloudSponge",
+  "app_id": "a43e5392-f48b-46a4-a0f1-098b5eeb4757",
+  "publisher": "CloudSPonge",
+  "permissions": [
+    "View.Profile",
+    "Mail.ReadWrite",
+  ],
+  "discovery_method": "Automated detection, Incident Response",
+  "impact": "Contact Exfil.",
+  "date_discovered": "2025-02-01",
+  "reported_by": "Steven Erwin",
+  "references": [
+  ]
+}
