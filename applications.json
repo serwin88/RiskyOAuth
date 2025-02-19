@@ -170,19 +170,3 @@
   "references": [
   ]
 }
-{
-  "app_name": "Microsoft Intune Company Portal",
-  "app_id": "9ba1a5c7-f17a-4de9-a1f1-6178c8d51223",
-  "publisher": "Microsoft Intune",
-  "permissions": [
-    "User.Read",
-    "Mail.ReadWrite",
-    "Directory.ReadWrite.All"
-  ],
-  "discovery_method": "Incident Response",
-  "impact": "Data exfiltration, account compromise",
-  "date_discovered": "2025-02-01",
-  "reported_by": "Steven Erwin",
-  "references": [
-  ]
-}
