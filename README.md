@@ -2,8 +2,6 @@
 
 ## Overview
 
-Application list is on-going, check back for more updates and changes as they are on-going. 
-
 This repository contains a curated list of known malicious Microsoft 365 (M365) OAuth applications. These applications have been identified as potentially harmful or malicious based on their behavior, scope of permissions requested, and the activity associated with their use. The purpose of this repository is to help security professionals, administrators, and threat analysts quickly identify and mitigate risks associated with malicious OAuth apps within their Microsoft 365 environments.
 
 OAuth applications in Microsoft 365 (formerly Office 365) are used to enable third-party integrations with Microsoft services. While legitimate apps provide useful functionalities, malicious or compromised apps can be exploited to gain unauthorized access to sensitive data, execute harmful actions, and compromise security.
